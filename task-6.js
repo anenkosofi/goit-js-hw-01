@@ -6,3 +6,4 @@ while (input !== null) {
     total += Number(input);
     
 } alert(`Общая сумма чисел равна ${total}`);
+
